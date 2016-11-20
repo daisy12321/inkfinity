@@ -1,0 +1,50 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1ba1)
+    Vendor:   NVIDIA
+    VRAM:     8144 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\yaqinh\Desktop\zen_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\yaqinh\Desktop\zen_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\yaqinh\Desktop\zen_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\yaqinh\Desktop\zen_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\yaqinh\Desktop\zen_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\yaqinh\Desktop\zen_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\yaqinh\Desktop\zen_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\yaqinh\Desktop\zen_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\yaqinh\Desktop\zen_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\yaqinh\Desktop\zen_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\yaqinh\Desktop\zen_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\yaqinh\Desktop\zen_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.044 seconds
+Platform assembly: C:\Users\yaqinh\Desktop\zen_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\yaqinh\Desktop\zen_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+VR: OpenVR Error! OpenVR failed initialization with error code VRInitError_IPC_ConnectFailedAfterMultipleAttempts: "Shared IPC Connect Failed After Multiple Attempts (308)"!
+ 
+(Filename:  Line: 777)
+
+OpenVR initialized!
+ 
+(Filename:  Line: 353)
+
+[VRDevice] Successfully created device OpenVR.
+UnloadTime: 0.591012 ms
+Connected to lighthouse:LHR-357F7DDF
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1b94 -> priority: 1 
+  Thread -> id: 4b54 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.318320 ms
+
+Unloading 67 unused Assets to reduce memory usage. Loaded Objects now: 543.
+Total: 0.577975 ms (FindLiveObjects: 0.028049 ms CreateObjectMapping: 0.035555 ms MarkObjects: 0.210172 ms  DeleteObjects: 0.303802 ms)
+
